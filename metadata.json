@@ -1,0 +1,6 @@
+{
+  "name": "Giáo Án Mầm Non AI 2026-2027",
+  "description": "Trợ lý thông minh hỗ trợ giáo viên mầm non soạn giáo án, kế hoạch giáo dục và tổ chức hoạt động giáo dục theo chuẩn BGD 2026-2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
