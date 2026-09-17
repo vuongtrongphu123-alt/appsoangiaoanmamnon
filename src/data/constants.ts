@@ -132,40 +132,74 @@ export const SAMPLE_LESSONS: LessonPlan[] = [
                 <tr>
                   <td class="p-3 border-r border-slate-400 align-top space-y-4">
                     <div>
-                      <p><strong>1. Ổn định tổ chức: (1 - 2 phút)</strong></p>
-                      <p>- Cô giới thiệu người tới dự</p>
-                      <p>- Cô con mình cùng khởi động với 1 vũ điệu “ A Ram Sam Sam”.</p>
-                      <p>- Cô mở nhạc bài hát cùng vận động với trẻ.</p>
+                      <p><strong>1. Ổn định tổ chức &amp; Gây hứng thú: (2 - 3 phút)</strong></p>
+                      <p>- Cô tươi cười, ân cần cúi xuống đón trẻ: "Nhiệt liệt chào đón các bạn nhỏ đáng yêu của lớp Mẫu giáo 4 - 5 tuổi đến với ngày hội 'Toán học vui nhộn' hôm nay!"</p>
+                      <p>- Cô giới thiệu các cô giáo trong Ban Giám khảo tới dự bằng giọng hào hứng: "Đến dự với lớp mình hôm nay có các cô giáo vô cùng xinh đẹp, chúng mình cùng nổ một tràng pháo tay thật giòn giã để chào đón các cô nào!"</p>
+                      <p>- <em>Tạo tình huống bất ngờ:</em> Tiếng nhạc vui nhộn "A Ram Sam Sam" vang lên, cô và trẻ cùng hòa mình nhún nhảy, làm các động tác lắc lư vui tươi.</p>
+                      <p>- <em>Lời dẫn đàm thoại:</em> "Các con ơi, hôm nay bạn Thỏ Trắng từ khu rừng mùa xuân có gửi tặng lớp mình một giỏ quà bí mật. Bạn Thỏ bảo ai tinh mắt và đếm giỏi sẽ nhận được những điều bất ngờ đấy. Chúng mình cùng bắt đầu khám phá nhé!"</p>
                     </div>
 
                     <div class="pt-2">
                       <p><strong>2. Phương pháp, hình thức tổ chức: (18 - 20 phút)</strong></p>
-                      <p class="font-semibold text-sky-800 mt-1">* Ôn số lượng trong phạm vi 4:</p>
-                      <p>- Cho trẻ quan sát mô hình vườn cây: "Con nhìn xem có bao nhiêu quả táo đỏ trên cây?"</p>
-                      <p>- Cho 1 trẻ lên chỉ và cả lớp cùng đếm.</p>
-                      <p>- Cho trẻ gắn thẻ số 4 tương ứng.</p>
+                      <p class="font-semibold text-sky-800 mt-1">* Hoạt động 1: Ôn số lượng trong phạm vi 4</p>
+                      <p>- Cô hướng trẻ về mô hình khu vườn mùa xuân: "Các con hãy nhìn xem trong vườn nhà bạn Thỏ có những cây gì đang đơm hoa kết trái nào?"</p>
+                      <p>- <em>Hệ thống câu hỏi gợi mở:</em></p>
+                      <p>&nbsp;&nbsp;+ "Trên cây táo đỏ có bao nhiêu quả đang chín mọng? Ai giỏi lên chỉ và đếm giúp cô nào?"</p>
+                      <p>&nbsp;&nbsp;+ Cô mời 1 trẻ lên dùng que chỉ, đếm từ trái qua phải to rõ ràng: 1, 2, 3, 4 quả táo. Cả lớp đếm kiểm tra lại.</p>
+                      <p>&nbsp;&nbsp;+ "Để biểu thị cho 4 quả táo đỏ, con sẽ chọn thẻ số mấy?" (Cô mời trẻ tìm thẻ số 4 gắn tương ứng).</p>
+                      <p>- Cô cho trẻ tìm thêm nhóm hoa/chú chim có số lượng 3, 4 trong lớp để khắc sâu kiến thức.</p>
 
-                      <p class="font-semibold text-sky-800 mt-2">* Tạo nhóm có số lượng 5, chữ số 5:</p>
-                      <p>- Cô phát rổ đồ dùng cho từng trẻ.</p>
-                      <p>- <em>Bước 1:</em> Cho trẻ xếp tất cả 5 bông hoa ra trước mặt từ trái qua phải.</p>
-                      <p>- <em>Bước 2:</em> Cho trẻ lấy 4 chú bướm xếp dưới mỗi bông hoa (tương ứng 1-1).</p>
-                      <p>- <em>Đặt câu hỏi mở:</em> "Các con thấy số hoa và số bướm như thế nào với nhau? Nhóm nào nhiều hơn? Nhiều hơn là mấy? Vì sao con biết?"</p>
-                      <p>- "Muốn số bướm bằng số hoa ta phải làm thế nào?"</p>
-                      <p>- Cho trẻ thêm 1 chú bướm.</p>
-                      <p>- Cho trẻ đếm lại số bướm: "4 thêm 1 là mấy?" -&gt; Kết luận: 4 thêm 1 là 5.</p>
-                      <p>- Giới thiệu chữ số 5: Cho trẻ quan sát thẻ số 5, nêu nét cấu tạo (1 nét ngang, 1 nét thẳng, 1 nét cong hở trái), cho trẻ phát âm mẫu.</p>
+                      <p class="font-semibold text-sky-800 mt-2">* Hoạt động 2: Tạo nhóm có số lượng 5, đếm đến 5 và nhận biết chữ số 5</p>
+                      <p>- Cô nhẹ nhàng chuyển đội hình: Cô đọc câu đố về các loài hoa, trẻ nhẹ nhàng đi về bàn lấy rổ học liệu đặt ngay ngắn trước mặt.</p>
+                      <p>- <em>Bước 1: Tạo nhóm 5 đối tượng:</em></p>
+                      <p>&nbsp;&nbsp;+ Cô hướng dẫn: "Các con hãy dùng đôi tay khéo léo lấy tất cả những bông hoa màu đỏ rực rỡ trong rổ ra và xếp thành một hàng ngang từ trái qua phải thật thẳng hàng nhé!" (Cô quan sát, nhắc nhở trẻ tư thế ngồi thẳng lưng).</p>
+                      <p>- <em>Bước 2: Xếp tương ứng 1 - 1:</em></p>
+                      <p>&nbsp;&nbsp;+ "Bây giờ, các con hãy lấy 4 chú bướm xinh đẹp ra, dưới mỗi bông hoa các con xếp tương ứng 1 chú bướm (xếp từ trái qua phải)."</p>
+                      <p>- <em>Bước 3: So sánh số lượng 2 nhóm (Hệ thống câu hỏi kích thích tư duy):</em></p>
+                      <p>&nbsp;&nbsp;+ "Các con quan sát xem số hoa và số bướm lúc này như thế nào với nhau?"</p>
+                      <p>&nbsp;&nbsp;+ "Nhóm nào nhiều hơn? Nhiều hơn là mấy? Vì sao con biết?" (Cô khích lệ: Con giỏi lắm, nhiều hơn 1 vì thừa ra 1 bông hoa chưa có bạn bướm đậu).</p>
+                      <p>&nbsp;&nbsp;+ "Nhóm nào ít hơn? Ít hơn là mấy? Vì sao?"</p>
+                      <p>&nbsp;&nbsp;+ "Bây giờ muốn số bướm nhiều bằng số hoa thì chúng mình phải làm cách nào? Ai có ý kiến hay nào?"</p>
+                      <p>- Cô lắng nghe các phương án của trẻ và chốt lại: "Đúng rồi, chúng mình hãy lấy thêm 1 chú bướm nữa xếp dưới bông hoa còn lại nhé!"</p>
+                      <p>- <em>Bước 4: Tạo sự bằng nhau và nhận biết số 5:</em></p>
+                      <p>&nbsp;&nbsp;+ "4 chú bướm thêm 1 chú bướm là mấy chú bướm?" -&gt; Cô khẳng định: "4 thêm 1 là 5". Cho cả lớp nhắc lại.</p>
+                      <p>&nbsp;&nbsp;+ Cho trẻ chỉ tay đếm số hoa: 1, 2, 3, 4, 5 bông hoa. Đếm số bướm: 1, 2, 3, 4, 5 chú bướm.</p>
+                      <p>&nbsp;&nbsp;+ "Như vậy lúc này số hoa và số bướm như thế nào với nhau? Và cùng bằng mấy?"</p>
+                      <p>- <em>Bước 5: Giới thiệu chữ số 5:</em></p>
+                      <p>&nbsp;&nbsp;+ "Để chỉ nhóm có 5 đối tượng như 5 bông hoa, 5 chú bướm, người ta dùng chữ số 5."</p>
+                      <p>&nbsp;&nbsp;+ Cô giơ thẻ số 5 to, phát âm mẫu rõ ràng 3 lần: "Số 5".</p>
+                      <p>&nbsp;&nbsp;+ Cho cả lớp phát âm, từng tổ, nhóm, cá nhân trẻ phát âm (cô chú ý sửa ngọng, động viên trẻ phát âm tròn vành rõ chữ).</p>
+                      <p>&nbsp;&nbsp;+ <em>Phân tích nét chữ số 5 bằng hình tượng sinh động:</em> "Các con nhìn xem chữ số 5 có cấu tạo gồm những nét gì? À, số 5 gồm 1 nét ngang ở trên như chiếc mũ, 1 nét thẳng ngắn ở bên trái, và 1 nét cong hở trái phía dưới giống như chiếc bụng béo đáng yêu đấy!"</p>
+                      <p>&nbsp;&nbsp;+ Cô cho trẻ dùng ngón trỏ tay phải vẽ chữ số 5 trên không trung và sờ đường viền nổi trên thẻ số.</p>
+                      <p>&nbsp;&nbsp;+ Cho trẻ chọn thẻ số 5 trong rổ đặt vào cạnh nhóm hoa và nhóm bướm.</p>
+                      <p>- <em>Bước 6: Bớt dần và cất đồ dùng:</em> Cho bớt lần lượt 1, 2 chú bướm, đếm lại và cất đồ dùng theo nhịp bài hát nhẹ nhàng.</p>
                     </div>
 
                     <div class="pt-2">
-                      <p><strong>3. Luyện tập &amp; Củng cố: (5 - 6 phút)</strong></p>
-                      <p>- <em>Trò chơi cá nhân: "Ai nhanh mắt"</em>: Trẻ tìm xung quanh lớp các đồ vật có gắn thẻ số 5.</p>
-                      <p>- <em>Trò chơi tập thể: "Về đúng nhà"</em>: Trẻ cầm thẻ số di chuyển theo nhạc, khi nghe hiệu lệnh "Tìm nhà có 5 chấm tròn" phải chạy nhanh về đúng nhà.</p>
+                      <p><strong>3. Luyện tập &amp; Củng cố: (6 - 8 phút)</strong></p>
+                      <p><strong>* Trò chơi 1: "Đôi mắt tinh nhanh"</strong></p>
+                      <p>- Cô giới thiệu trò chơi "Đôi mắt tinh nhanh" và phổ biến cách chơi và luật chơi.</p>
+                      <p>+ <em>Cách chơi:</em> Mỗi bạn chú ý lắng nghe cô vỗ tay hoặc quan sát xung quanh lớp xem góc nào có nhóm 5 đồ dùng đồ chơi thì chạy nhanh đến và chỉ tay đếm to.</p>
+                      <p>+ <em>Luật chơi:</em> Phải tìm đúng nhóm có đủ 5 đối tượng. Bạn nào tìm nhanh và đúng nhất sẽ được cả lớp thưởng một tràng pháo tay giòn giã.</p>
+                      <p>- Tổ chức cho trẻ chơi:</p>
+                      <p>Lần 1: Trẻ đếm tiếng vỗ tay và giơ thẻ số 5 tại chỗ.</p>
+                      <p>Lần 2: Trẻ tìm các nhóm có 5 đồ vật xung quanh các góc lớp.</p>
+                      <p>- Cô nhận xét kết quả, động viên, tuyên dương trẻ sau trò chơi.</p>
+
+                      <p class="pt-2"><strong>* Trò chơi 2 (Vận động): "Chung sức tiếp sức"</strong></p>
+                      <p>- Cô giới thiệu trò chơi "Chung sức tiếp sức" và phổ biến cách chơi và luật chơi.</p>
+                      <p>+ <em>Cách chơi:</em> Mỗi bạn lấy 1 thẻ hình và về 2 hàng dọc tương ứng với 2 đội chơi. Khi bản nhạc cất lên, từng bạn đầu hàng sẽ bật nhảy qua 3 ô vòng thể dục, chọn đúng thẻ hình có nhóm 5 đối tượng gắn lên bảng thi đua của đội mình, sau đó chạy về đập tay vào bạn tiếp theo.</p>
+                      <p>+ <em>Luật chơi:</em> Khi thực hiện phải bật khéo léo không giẫm vào mép vòng, mỗi lượt chỉ gắn 1 thẻ hình. Khi trò chơi kết thúc đội nào gắn đúng và nhiều hơn sẽ là đội chiến thắng.</p>
+                      <p>- Tổ chức cho trẻ chơi:</p>
+                      <p>Lần 1: Trẻ thi đua tiếp sức bật nhảy qua 3 ô vòng.</p>
+                      <p>Lần 2: Trẻ đổi vị trí và nâng cao tốc độ theo giai điệu nhạc.</p>
+                      <p>- Cô nhận xét kết quả, động viên, tuyên dương trẻ sau trò chơi.</p>
                     </div>
 
                     <div class="pt-2">
-                      <p><strong>4. Kết thúc: (1 - 2 phút)</strong></p>
-                      <p>- Cô nhẹ nhàng nhận xét, khen ngợi tinh thần cố gắng của cả lớp.</p>
-                      <p>- Chuyển hoạt động góc nhẹ nhàng.</p>
+                      <p><strong>4. Kết thúc &amp; Chuyển tiếp hoạt động: (1 - 2 phút)</strong></p>
+                      <p>- Cô ân cần nhận xét: "Hôm nay cô thấy bạn nào học cũng rất chăm chỉ, biết đếm giỏi, trả lời câu hỏi to rõ ràng và tham gia trò chơi rất đoàn kết. Cô khen tất cả các con một tràng pháo tay thật lớn!"</p>
+                      <p>- Nhắc nhở trẻ nhẹ nhàng mang đồ dùng xếp ngay ngắn vào rổ, chuyển sang hoạt động góc trong tiếng hát bài 'Màu hoa'.</p>
                     </div>
                   </td>
 

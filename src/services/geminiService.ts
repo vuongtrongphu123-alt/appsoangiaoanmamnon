@@ -91,35 +91,54 @@ export function buildLocalHighQualityLesson(params: GeneratePlanParams): string 
               <tr>
                 <td class="p-3 border-r border-slate-400 align-top space-y-4">
                   <div>
-                    <p><strong>1. Ổn định tổ chức: (1 - 2 phút)</strong></p>
-                    <p>- Cô tập trung trẻ, cùng trẻ hát và vận động theo giai điệu vui tươi.</p>
-                    <p>- Xuất hiện tình huống bất ngờ gợi mở về chủ đề "${theme}".</p>
-                    <p>- <em>Cô hỏi gợi mở:</em> "Đố các con biết bên trong chiếc hộp bí mật có điều gì kỳ diệu? Chúng mình cùng mở nhé!"</p>
+                    <p><strong>1. Ổn định tổ chức &amp; Khởi động: (2 - 3 phút)</strong></p>
+                    <p>- Cô tươi cười chào đón trẻ bằng ánh mắt trìu mến, giang tay đón trẻ xúm xít quanh cô trong điệu nhạc êm dịu.</p>
+                    <p>- <em>Tạo tình huống kịch tính:</em> "Hôm nay cô có một người bạn bí mật từ xứ sở diệu kỳ gửi tặng lớp mình một món quà kỳ lạ. Chúng mình cùng lắng tai nghe xem có tiếng động gì nhé!"</p>
+                    <p>- Cô lắc nhẹ chiếc hộp thần kỳ, tạo sự tò mò kích thích trí tưởng tượng của trẻ.</p>
+                    <p>- <em>Đàm thoại dẫn dắt:</em> "Theo các con, bên trong chiếc hộp này đựng gì nào? Vì sao con lại đoán như vậy? Nào, chúng mình cùng đếm 1, 2, 3 và mở hộp ra khám phá nhé!"</p>
                   </div>
 
                   <div class="pt-2">
-                    <p><strong>2. Phương pháp, hình thức tổ chức: (15 - 18 phút)</strong></p>
-                    <p>- Cô chia trẻ về các nhóm nhỏ, phát đồ dùng vật thật / học liệu trực quan cho từng nhóm.</p>
-                    <p>- Cho trẻ được tự tay sờ, ngửi, cầm nắm và trao đổi với bạn về đối tượng bài học "${topic}".</p>
-                    <p>- <em>Hệ thống câu hỏi mở kích thích tư duy:</em></p>
-                    <p>+ "Con nhìn thấy vật này có hình dáng và màu sắc như thế nào?"</p>
-                    <p>+ "Khi sờ vào con thấy mịn hay ráp? Có cảm giác gì?"</p>
-                    <p>+ "Vì sao con lại nghĩ như vậy? Ai có phát hiện khác bạn không?"</p>
-                    <p>- Cô di chuyển đến từng nhóm lắng nghe, động viên trẻ nhút nhát chia sẻ.</p>
-                    <p>- Cô khái quát lại ngắn gọn, chính xác bằng lời nói ấm áp, sinh động.</p>
+                    <p><strong>2. Phương pháp, hình thức tổ chức: (16 - 18 phút)</strong></p>
+                    <p><em>a) Trải nghiệm đa giác quan &amp; Khám phá trọng tâm bài dạy "${topic}":</em></p>
+                    <p>- Cô khéo léo giới thiệu học liệu trực quan, mời đại diện từng nhóm lên nhận khay đồ dùng mang về vị trí nhóm của mình.</p>
+                    <p>- Cô khích lệ trẻ: "Các con hãy dùng đôi bàn tay khéo léo để chạm vào, dùng đôi mắt tinh anh để ngắm nhìn, và hãy hít một hơi thật sâu xem có mùi gì đặc biệt không nhé!"</p>
+                    <p>- <em>Hệ thống câu hỏi gợi mở nhiều tầng bậc:</em></p>
+                    <p>&nbsp;&nbsp;+ <em>Tầng 1 (Nhận biết):</em> "Các con đang quan sát thấy những gì? Vật này có màu sắc, hình dáng ra sao?"</p>
+                    <p>&nbsp;&nbsp;+ <em>Tầng 2 (Phân tích - So sánh):</em> "Khi sờ vào, con thấy bề mặt như thế nào? Nó giống hay khác với đồ vật hôm trước chúng mình đã học?"</p>
+                    <p>&nbsp;&nbsp;+ <em>Tầng 3 (Phỏng đoán - Giải quyết vấn đề):</em> "Vì sao con lại nghĩ như vậy? Nếu cô thay đổi vị trí thì điều gì sẽ xảy ra? Ai có ý kiến khác bạn nào?"</p>
+                    <p>- Cô đến từng nhóm nhỏ, cúi xuống ngang tầm mắt trẻ, ân cần lắng nghe từng lời chia sẻ ngây thơ, động viên những trẻ nhút nhát tự tin giơ tay phát biểu.</p>
+                    <p>- Xử lý tình huống sư phạm khéo léo: Khi trẻ trả lời chưa chính xác, cô mỉm cười xoa đầu: "Ý kiến của con rất thú vị, ai có thể bổ sung thêm để câu trả lời hoàn thiện hơn giúp bạn nào?"</p>
+                    <p><em>b) Khái quát &amp; Chuẩn hóa kiến thức:</em></p>
+                    <p>- Cô trình chiếu hình ảnh động sinh động trên màn hình, tổng hợp lại đặc điểm cốt lõi của bài học bằng lời văn súc tích, ngữ điệu truyền cảm.</p>
                   </div>
 
                   <div class="pt-2">
-                    <p><strong>3. Luyện tập &amp; Củng cố: (5 - 6 phút)</strong></p>
-                    <p>- <em>Trò chơi 1 (Cá nhân):</em> Trẻ nghe hiệu lệnh của cô và nhanh tay tìm đúng hình ảnh / đồ vật theo yêu cầu.</p>
-                    <p>- <em>Trò chơi 2 (Tập thể):</em> Chia lớp thành 2 đội thi đua gắn đối tượng lên bảng.</p>
-                    <p>- Cô phổ biến cách chơi, luật chơi rõ ràng; bao quát tạo không khí an toàn, hào hứng.</p>
+                    <p><strong>3. Luyện tập &amp; Củng cố: (6 - 8 phút)</strong></p>
+                    <p><strong>* Trò chơi 1: "Đôi mắt tinh nhanh"</strong></p>
+                    <p>- Cô giới thiệu trò chơi "Đôi mắt tinh nhanh" và phổ biến cách chơi và luật chơi.</p>
+                    <p>+ <em>Cách chơi:</em> Khi bản nhạc cất lên, các con chú ý lắng nghe và quan sát thật nhanh xem trong rổ hoặc xung quanh lớp có đồ vật nào tương ứng với bài học, nhanh tay chọn và giơ lên cao.</p>
+                    <p>+ <em>Luật chơi:</em> Bạn nào tìm nhanh và phát âm đúng sẽ được cả lớp vỗ tay khen ngợi, bạn nào chọn chưa đúng sẽ nhờ bạn bên cạnh giúp đỡ.</p>
+                    <p>- Tổ chức cho trẻ chơi:</p>
+                    <p>Lần 1: Trẻ ngồi tại chỗ chọn nhanh học liệu trong rổ.</p>
+                    <p>Lần 2: Trẻ đứng lên vận động nhẹ nhàng và tìm đồ vật xung quanh các góc lớp.</p>
+                    <p>- Cô nhận xét kết quả, động viên, tuyên dương trẻ sau trò chơi.</p>
+
+                    <p class="pt-2"><strong>* Trò chơi 2 (Vận động): "Chung sức đồng lòng"</strong></p>
+                    <p>- Cô giới thiệu trò chơi "Chung sức đồng lòng" và phổ biến cách chơi và luật chơi.</p>
+                    <p>+ <em>Cách chơi:</em> Mỗi bạn lấy 1 đồ dùng và về 2 hàng dọc tương ứng với 2 đội chơi. Khi bản nhạc cất lên, từng bạn đầu hàng sẽ bật nhảy qua các ô vòng thể dục, gắn đồ dùng lên bảng của đội mình, sau đó chạy về đập tay vào bạn tiếp theo.</p>
+                    <p>+ <em>Luật chơi:</em> Khi thực hiện phải bật khéo léo không giẫm vào mép vòng, mỗi lượt chỉ gắn 1 đồ dùng. Khi trò chơi kết thúc, đội nào gắn đúng và nhiều hơn sẽ là đội chiến thắng.</p>
+                    <p>- Tổ chức cho trẻ chơi:</p>
+                    <p>Lần 1: Trẻ bật nhảy qua 3 vòng thể dục gắn đối tượng.</p>
+                    <p>Lần 2: Trẻ nâng cao độ khó đi dích dắc qua các chướng ngại vật.</p>
+                    <p>- Cô nhận xét kết quả, động viên, tuyên dương trẻ sau trò chơi.</p>
                   </div>
 
                   <div class="pt-2">
-                    <p><strong>4. Kết thúc: (1 - 2 phút)</strong></p>
-                    <p>- Cô nhận xét nhẹ nhàng, khen ngợi tinh thần cố gắng của cả lớp.</p>
-                    <p>- Hướng dẫn trẻ thu dọn đồ dùng học tập gọn gàng vào rổ, chuyển hoạt động góc nhẹ nhàng.</p>
+                    <p><strong>4. Kết thúc &amp; Giáo dục cảm xúc: (2 phút)</strong></p>
+                    <p>- Cô nhẹ nhàng nhận xét buổi học: "Hôm nay cô thấy bạn nào cũng chăm ngoan, đôi mắt sáng lấp lánh và đôi bàn tay làm việc rất cừ khôi!"</p>
+                    <p>- Lồng ghép giáo dục kỹ năng sống: Nhắc nhở trẻ biết yêu quý, giữ gìn đồ dùng học tập và biết giúp đỡ bạn bè.</p>
+                    <p>- Cô và trẻ cùng hát vang giai điệu quen thuộc, vui vẻ chung tay thu dọn đồ dùng gọn gàng vào góc lớp.</p>
                   </div>
                 </td>
 
